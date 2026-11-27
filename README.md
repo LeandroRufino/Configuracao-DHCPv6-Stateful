@@ -8,7 +8,7 @@ A configuração permite que os computadores recebam automaticamente seus endere
 
 ## Topologia da rede
 
-![Topologia da rede](topologia_DHCP-STATEFUL-IPV6.png)
+![Topologia da rede](topologia_DHCPV5-STATEFUL.png)
 
 A topologia é composta por:
 
