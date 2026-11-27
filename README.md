@@ -56,11 +56,9 @@ Foram realizados testes para verificar:
 
 ![PC2 DHCP IPV6](PC2-IPV6.png)
 
-![ipconfig PC0](ipconfig_PC0-IPV6.png)
-
-![ipconfig PC1](ipconfig_PC1-IPV6.png)
-
-![ipconfig PC2](ipconfig_PC2-IPV6.png)
+![ipconfig PC0](ipconfig_PC0.png)
+![ipconfig PC1](ipconfig_PC1.png)
+![ipconfig PC2](ipconfig_PC2.png)
 
 Tecnologias e conceitos utilizados
 
