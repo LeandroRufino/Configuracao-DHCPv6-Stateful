@@ -29,6 +29,12 @@ Configurações realizadas
 - Associação do pool DHCPv6 à interface.
 - Configuração da flag Managed (M), indicando aos clientes que devem obter os endereços por DHCPv6.
 
+![Show Running-Config](show-running-config-parte-1.png)
+
+![Show Running-Config](show-running-config-parte-2.png)
+
+![Show IPv6 Interface Brief](show-ipv6-interface-brief.png)
+
 Funcionamento do DHCPv6 Stateful
 
 No modo Stateful, o servidor DHCPv6 realiza a atribuição dos endereços IPv6 globais (GUA) aos computadores.
