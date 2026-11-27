@@ -6,8 +6,6 @@ Projeto prático desenvolvido no Cisco Packet Tracer, com o objetivo de implemen
 
 A configuração permite que os computadores recebam automaticamente seus endereços IPv6 globais (GUA) e informações de DNS por meio de um servidor DHCPv6 configurado no roteador.
 
-Topologia da rede
-
 ## Topologia da rede
 
 ![Topologia da rede](topologia_DHCP-STATEFUL-IPV6.png)
@@ -19,7 +17,7 @@ A topologia é composta por:
 - 3 computadores.
 - 1 rede IPv6.
 
-Configurações realizadas
+## Configurações realizadas
 
 - Habilitação do roteamento IPv6 no roteador.
 - Criação do pool DHCPv6 Stateful "POOL-STATEFUL".
@@ -34,13 +32,13 @@ Configurações realizadas
 
 ![Show IPv6 Interface Brief](show%20ipv6%20interface%20brief.png)
 
-Funcionamento do DHCPv6 Stateful
+## Funcionamento do DHCPv6 Stateful
 
 No modo Stateful, o servidor DHCPv6 realiza a atribuição dos endereços IPv6 globais (GUA) aos computadores.
 
 O gateway padrão é aprendido separadamente, por meio de Router Advertisements (RA), utilizando o endereço Link-Local (LLA) do roteador.
 
-Testes realizados
+## Testes realizados
 
 Foram realizados testes para verificar:
 
@@ -69,7 +67,7 @@ Foram realizados testes para verificar:
 
 ![ping PC2](ping_PC2.png)
 
-Tecnologias e conceitos utilizados
+## Tecnologias e conceitos utilizados
 
 - Cisco Packet Tracer.
 - IPv6.
@@ -83,7 +81,7 @@ Tecnologias e conceitos utilizados
 
 [Baixar projeto DHCPv6 Stateful](DStateful.pkt)
 
-Competências desenvolvidas
+## Competências desenvolvidas
 
 - Configuração de redes IPv6.
 - Implementação de DHCPv6 Stateful.
