@@ -8,6 +8,10 @@ A configuração permite que os computadores recebam automaticamente seus endere
 
 Topologia da rede
 
+## Topologia da rede
+
+![Topologia da rede](topologia_DHCP-STATEFUL-IPV6.png)
+
 A topologia é composta por:
 
 - 1 roteador Cisco 1941.
