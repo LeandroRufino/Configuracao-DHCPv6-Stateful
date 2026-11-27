@@ -50,6 +50,18 @@ Foram realizados testes para verificar:
 - Conectividade entre os computadores por meio de testes "ping".
 - Testes de conectividade IPv6 realizados diretamente pelo roteador.
 
+![PC0 DHCP IPV6](PC0-IPV6.png)
+
+![PC1 DHCP IPV6](PC1-IPV6.png)
+
+![PC2 DHCP IPV6](PC2-IPV6.png)
+
+![ipconfig PC0](ipconfig_PC0-IPV6.png)
+
+![ipconfig PC1](ipconfig_PC1-IPV6.png)
+
+![ipconfig PC2](ipconfig_PC2-IPV6.png)
+
 Tecnologias e conceitos utilizados
 
 - Cisco Packet Tracer.
