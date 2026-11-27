@@ -29,9 +29,9 @@ Configurações realizadas
 - Associação do pool DHCPv6 à interface.
 - Configuração da flag Managed (M), indicando aos clientes que devem obter os endereços por DHCPv6.
 
-![Show Running-Config](show%20running%20config%20parte%201.png)
+![Show Running-Config](show%20running%-config%20parte%201.png)
 
-![Show Running-Config](show%20running%20config%20parte%202.png)
+![Show Running-Config](show%20running-config%20parte%202.png)
 
 ![Show IPv6 Interface Brief](show%20ipv6%20interface%20brief.png)
 
